@@ -1,12 +1,8 @@
-# 0x00. Pascal's Triangle
+# [0x00. Pascal's Triangle](https://github.com/lahincapie/holbertonschool-interview/tree/master/0x00-pascal_triangle)
 
 # **Tasks**
 
 ### **0. Pascal's Triangle**
-
-**mandatory**
-
-Score: 0.00% (*Checks completed: 0.00%*)
 
 Create a function `def pascal_triangle(n):` that returns a list of lists of integers representing the Pascal’s triangle of `n`:
 
@@ -44,7 +40,7 @@ guillaume@ubuntu:~/0x00$
 
 **Repo:**
 
-- GitHub repository: `holbertonschool-interview`
-- Directory: `0x00-pascal_triangle`
-- File: `0-pascal_triangle.py`
+- GitHub repository: [holbertonschool-interview](https://github.com/lahincapie/holbertonschool-interview)
+- Directory: [0x00-pascal_triangle](https://github.com/lahincapie/holbertonschool-interview/tree/master/0x00-pascal_triangle)`
+- File: [0-pascal_triangle.py](https://github.com/lahincapie/holbertonschool-interview/blob/master/0x00-pascal_triangle/0-pascal_triangle.py)`
 
