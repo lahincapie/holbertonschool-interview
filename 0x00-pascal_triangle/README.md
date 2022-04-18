@@ -41,6 +41,6 @@ guillaume@ubuntu:~/0x00$
 **Repo:**
 
 - GitHub repository: [holbertonschool-interview](https://github.com/lahincapie/holbertonschool-interview)
-- Directory: [0x00-pascal_triangle](https://github.com/lahincapie/holbertonschool-interview/tree/master/0x00-pascal_triangle)`
-- File: [0-pascal_triangle.py](https://github.com/lahincapie/holbertonschool-interview/blob/master/0x00-pascal_triangle/0-pascal_triangle.py)`
+- Directory: [0x00-pascal_triangle](https://github.com/lahincapie/holbertonschool-interview/tree/master/0x00-pascal_triangle)
+- File: [0-pascal_triangle.py](https://github.com/lahincapie/holbertonschool-interview/blob/master/0x00-pascal_triangle/0-pascal_triangle.py)
 
